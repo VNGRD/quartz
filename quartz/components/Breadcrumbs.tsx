@@ -32,8 +32,8 @@ interface BreadcrumbOptions {
 }
 
 const defaultOptions: BreadcrumbOptions = {
-  spacerSymbol: "❯",
-  rootName: "Home",
+  spacerSymbol: "→",
+  rootName: "index",
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
   showCurrentPage: true,

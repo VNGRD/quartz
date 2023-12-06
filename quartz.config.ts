@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "sprout 🌱",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -14,30 +14,30 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "pixel-love",
+        body: "cure.se",
+        code: "ProggyTinyTT",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#eff1f5", // bg 
+          lightgray: "#bcc0cc",
+          gray: "#9ca0b0",
+          darkgray: "#9ca0b0",
+          dark: "#4c4f69",
+          secondary: "#5a7a44", // title, folder names, body links, callouts
+          tertiary: "#ef9f76", // text selection, link hover
+          highlight: "rgba(166, 227, 161, 0.15)", // link and tag highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#1e1e2e", // bg
+          lightgray: "#313244",
+          gray: "#9399b2",
+          darkgray: "#bac2de",
+          dark: "#cdd6f4",
+          secondary: "#a6e3a1", // title, folder names, body links, callouts
+          tertiary: "#f38ba8", // text selection, link hover
+          highlight: "rgba(245, 224, 220, 0.15)", // link and tag highlight
         },
       },
     },

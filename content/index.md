@@ -5,12 +5,26 @@ tags:
 ---
 <img style="height: 70px; width: 100%; object-fit: cover; box-shadow: 1px 2px 3px rgba(0,0,0,.5);" src="https://media.discordapp.net/attachments/587845669562220592/1000695070875463730/Tumblr_l_118815257339206.gif">
 
-# welcome! 🔅
+> *“Anyone can learn to fight. Hardly anyone learns to think.”*
+>
+> Tamsyn Muir, Gideon the Ninth
+
+#### welcome! 🔅
 
 It feels pretentious calling this vault a “second  brain” when, in reality, it’s more akin to a Five Star™ 5 subject notebook where I just put whatever in it. I’m not sure how often my notes will see refining, and now I’m thinking that it’s more like a haphazard detective board instead of a garden - however, I’m keeping the garden metaphor because it’s cute 💖
 
 ---
 
-[[diary]] – journal entries 💌
+#### the greenhouse
+
+> *or, basically my maps of content*
+
+[[diary]] – journal entries and brain dumps 💌
 
 [[nursery]] – notes related to learning and classes i'm taking 🌱
+
+
+#### more info
+> *extra things that don't really fit in anywhere else*
+
+- this garden's day / night color schemes are based on [catppuccin](https://github.com/catppuccin/catppuccin)!
