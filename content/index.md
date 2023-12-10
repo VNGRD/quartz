@@ -15,7 +15,9 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 
 **Current learning and research of interest:**
 1. HTML & CSS
-2. Foundations of the Internet and the web
+2. Foundations of the Internet and the web via:
+- [The Odin Project](https://www.theodinproject.com/dashboard)
+- [freeCodeCamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Responsive Web Design course
 3. Web revival and my personal relationship with technology
 
 ---
@@ -29,4 +31,4 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 ## more info
 > *extra things that don't really fit in anywhere else*
 
-- this garden's day / night color schemes are based on [catppuccin](https://github.com/catppuccin/catppuccin)!
+- this garden's day / night color schemes are based on [Catppuccin](https://github.com/catppuccin/catppuccin)!
