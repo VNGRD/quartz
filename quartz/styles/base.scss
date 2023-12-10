@@ -1,3 +1,5 @@
+// 12/10/2023: changed text-highlight
+
 @use "./variables.scss" as *;
 @use "./syntax.scss";
 @use "./callouts.scss";
@@ -21,7 +23,7 @@ section {
 }
 
 .text-highlight {
-  background-color: #fff23688;
+  background-color: #f9e1af71;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
