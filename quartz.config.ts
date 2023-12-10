@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Palatino",
-        body: "Palatino",
+        header: "Palatino", 
+        body: "Palatino", // overwritten by custom.scss
         code: "Courier",
       },
       colors: {
