@@ -2,7 +2,6 @@
 date: 2023-12-05
 tags:
   - theodinproject
-  - webdev
 ---
 # What is the internet?
 ==INTERNET==: the *hardware*; the physical connections of cords and cables that connect servers together. (The cable management for this thing must be insane)
