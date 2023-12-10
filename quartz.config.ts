@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Nunito",
-        body: "Nunito",
+        header: "Nunito, Garamond",
+        body: "Nunito, Garamond",
         code: "Courier",
       },
       colors: {
