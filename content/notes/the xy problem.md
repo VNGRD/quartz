@@ -2,7 +2,6 @@
 date: 2023-12-05
 tags:
   - theodinproject
-  - webdev
 source: https://xyproblem.info/
 ---
 > When asking for help with a problem, make sure you're asking about how to fix the problem rather than how to enact your attempted solution.

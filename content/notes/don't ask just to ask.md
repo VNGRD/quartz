@@ -2,7 +2,6 @@
 date: 2023-12-05
 tags:
   - theodinproject
-  - webdev
 source: https://solhsa.com/dontask.html
 ---
 What exactly is asking just to ask?
