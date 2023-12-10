@@ -3,20 +3,20 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "sprout 🌱",
+    pageTitle: "vngrd://sprout",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "vngrd.github.io/sprout",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "pixel-love",
-        body: "cure.se",
-        code: "ProggyTinyTT",
+        header: "Nunito",
+        body: "Nunito",
+        code: "Courier",
       },
       colors: {
         lightMode: {

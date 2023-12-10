@@ -7,6 +7,7 @@ tags:
 
 > Journal entries and brain dumps 💌
 
-#### 2023
-##### december
+# 2023
+
+# december
 - [[the garden]]

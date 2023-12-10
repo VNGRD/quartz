@@ -13,6 +13,6 @@ source: https://xyproblem.info/
 
 - **Solution**: Always go broad regarding your problem rather than being specific. If asked, provide  details as needed. If you rule out something before asking about the problem, say *why* you ruled it out.**
 
-#### Related
+# Related
 - [The XY Problem](https://xyproblem.info/)
 - [[don't ask just to ask]]

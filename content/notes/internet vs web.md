@@ -2,8 +2,9 @@
 date: 2023-12-05
 tags:
   - theodinproject
+  - webdev
 ---
-### What is the internet?
+# What is the internet?
 ==INTERNET==: the *hardware*; the physical connections of cords and cables that connect servers together. (The cable management for this thing must be insane)
 - In better wording, it’s the “technical infrastructure.”
 - Computers can be connected physically or wirelessly in order to communicate with each other.
@@ -12,7 +13,7 @@ tags:
 > [!NOTE] How is data sent from one computer to another?
 > Computer #1 → router → modem → internet service provider (ISP) → modem → router → Computer #2
 
-#### Communication terminology
+## Communication terminology
 
 ==ROUTER==: a tiny computer that a computer / multiple computers can connect to; it allows messages to be sent from one computer to another.
 - A router based in one network (a collection of computers connected to each other) can connect to another router based in another network.
@@ -29,6 +30,7 @@ tags:
 - Example → IP address 142.250.190.78 = Domain name *google.com*
 
 ==PACKETS==: information broken down in order for it to travel through the internet and reassembled once it reaches its destination.
+
 # What is the web?
 ==WORLD WIDE WEB==: the *software*, so to speak; uses the internet to present information to the user in the form of wepbages, documents, etc.
 
@@ -37,7 +39,7 @@ tags:
 
 ==EXTRANET==: a more **open** version of an intranet that allows different organizations to collaborate with each other in one network, as opposed to the network being closed to only one organization (aka intranet)
 
-### External links + sources
+# External links + sources
 - [How Does The Internet Work? - BBC Click](https://www.youtube.com/watch?v=eHp1l73ztB8)
 - [How does the Internet work? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 - [How the Internet Works in 5 Minutes - YouTube](https://www.youtube.com/watch?v=7_LPdttKXPc&t=46s)

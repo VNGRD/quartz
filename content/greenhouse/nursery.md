@@ -7,8 +7,9 @@ tags:
 
 > Notes related to learning and classes i'm taking 🌱
 
-#### the odin project
-##### foundations
+# the odin project
+
+## foundations
 - [[don't ask just to ask]]
 - [[internet vs web]]
 - [[the xy problem]]

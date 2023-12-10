@@ -9,13 +9,13 @@ tags:
 >
 > Tamsyn Muir, Gideon the Ninth
 
-#### welcome! 🔅
+# welcome! 🔅
 
 It feels pretentious calling this vault a “second  brain” when, in reality, it’s more akin to a Five Star™ 5 subject notebook where I just put whatever in it. I’m not sure how often my notes will see refining, and now I’m thinking that it’s more like a haphazard detective board instead of a garden - however, I’m keeping the garden metaphor because it’s cute 💖
 
 ---
 
-#### the greenhouse
+# the greenhouse
 
 > *or, basically my maps of content*
 
@@ -24,7 +24,8 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 [[nursery]] – notes related to learning and classes i'm taking 🌱
 
 
-#### more info
+# more info
+
 > *extra things that don't really fit in anywhere else*
 
 - this garden's day / night color schemes are based on [catppuccin](https://github.com/catppuccin/catppuccin)!
