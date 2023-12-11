@@ -15,8 +15,8 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 
 **Current learning and research:**
 1. HTML & CSS via:
-- [The Odin Project](https://www.theodinproject.com/dashboard)
-- [freeCodeCamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Responsive Web Design course
+  - [The Odin Project](https://www.theodinproject.com/dashboard)
+  - [freeCodeCamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Responsive Web Design course
 2. Foundations of the Internet and the web
 3. Web revival and my personal relationship with technology
 
