@@ -33,4 +33,4 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 > *extra things that don't really fit in anywhere else*
 
 - this garden's day / night color schemes are based on [Catppuccin](https://github.com/catppuccin/catppuccin)
-- minecraft banners are from [chillcrafting] (https://chillcrafting.tumblr.com/) @ tumblr
+- minecraft banners are from [chillcrafting](https://chillcrafting.tumblr.com/) @ tumblr
