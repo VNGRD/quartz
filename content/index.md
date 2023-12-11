@@ -23,6 +23,7 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 ---
 
 ## places of interest
+> *where would you like to go?*
 
 [[diary]] – journal entries 💌
 
@@ -31,4 +32,5 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 ## more info
 > *extra things that don't really fit in anywhere else*
 
-- this garden's day / night color schemes are based on [Catppuccin](https://github.com/catppuccin/catppuccin)!
+- this garden's day / night color schemes are based on [Catppuccin](https://github.com/catppuccin/catppuccin)
+- minecraft banners are from [chillcrafting] (https://chillcrafting.tumblr.com/) @ tumblr

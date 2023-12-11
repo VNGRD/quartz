@@ -18,7 +18,7 @@ section {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: var(--bodyFont);
+  font-family: var(--bodyFont); // overwritten by custom.scss
   color: var(--darkgray);
 }
 
@@ -241,7 +241,7 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--headerFont);
+  font-family: var(--headerFont); // overwritten by custom.scss
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;

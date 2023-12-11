@@ -5,7 +5,7 @@ tags:
 ---
 <img style="height: 70px; width: 100%; object-fit: cover; box-shadow: 1px 2px 3px rgba(0,0,0,.5);" src="https://64.media.tumblr.com/ef4a24260f0606beaf9ab344c22e24e2/e3a833691b4de27b-ac/s500x750/f60b4518f9008339bc4af780a67245feead03c25.gifv">
 
-> Notes related to learning and classes i'm taking 🌱
+> Notes related to learning and classes I'm taking 🌱
 
 # the odin project
 
