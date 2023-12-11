@@ -14,9 +14,7 @@ tags:
 It feels pretentious calling this vault a “second  brain” when, in reality, it’s more akin to a Five Star™ 5 subject notebook where I just put whatever in it. I’m not sure how often my notes will see refining, and now I’m thinking that it’s more like a haphazard detective board instead of a garden - however, I’m keeping the garden metaphor because it’s cute 💖
 
 **Current learning and research:**
-1. HTML & CSS via:
-  - [The Odin Project](https://www.theodinproject.com/dashboard)
-  - [freeCodeCamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Responsive Web Design course
+1. HTML & CSS via [The Odin Project](https://www.theodinproject.com/dashboard) and [freeCodeCamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Responsive Web Design course
 2. Foundations of the Internet and the web
 3. Web revival and my personal relationship with technology
 
