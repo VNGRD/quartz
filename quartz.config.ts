@@ -21,9 +21,9 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#eff1f5", // bg 
-          lightgray: "#bcc0cc",
+          lightgray: "#9ca0b0",
           gray: "#9ca0b0",
-          darkgray: "#9ca0b0",
+          darkgray: "#5c5f77",
           dark: "#4c4f69",
           secondary: "#5a7a44", // title, folder names, body links, callouts
           tertiary: "#ef9f76", // text selection, link hover
