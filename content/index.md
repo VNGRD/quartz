@@ -1,3 +1,9 @@
+---
+title: welcome to the greenhouse! 🏡
+last updated: 2023-12-12
+tags:
+  - moc
+---
 <img style="height: 150px; width: 100%; object-fit: cover; box-shadow: 1px 2px 3px rgba(0,0,0,.5);" src="https://media.discordapp.net/attachments/587845669562220592/1000695070875463730/Tumblr_l_118815257339206.gif">
 
 > *“Anyone can learn to fight. Hardly anyone learns to think.”*
