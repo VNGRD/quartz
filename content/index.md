@@ -17,6 +17,9 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 2. Foundations of the Internet and the web
 3. Web revival and my personal relationship with technology
 
+> [!warning] Disclaimer: Citing and sources
+> As this is intended to be an online version of my Obsidian vault that I primarily use for learning and notetaking, the sources that I use for my studies will usually be listed at the bottom of my notes for my own personal reference, and my citations, if done at all, may be academically incorrect. Please think of this garden as someone's class notes you may have found left in a table of a cafe and not as a source used for actual academic writing. Thank you ☺️
+
 ---
 
 ## places of interest
