@@ -8,7 +8,7 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 ---
 # Parts of the web
 
-==WEB PAGE==: a document that can be displayed in a browser, accessible by a unique address ^040d6e
+<mark style="background: #FFF3A3A6;">WEB PAGE</mark>: a document that can be displayed in a browser, accessible by a unique address
 - Written in HTML
 - Employs the use of style information, scripts, and media with **component files**.
 	- Style information is controlled by CSS
@@ -17,15 +17,15 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 - Code files include HTML, CSS, and JavaScript
 - Assets include all other documents and media that help make up a website other than its code file components
 
-==WEBSITE==: a collection of pages grouped together that are related to each other in some way by subject
+<mark style="background: #FFF3A3A6;">WEBSITE</mark>: a collection of pages grouped together that are related to each other in some way by subject
 - The web pages are linked together by subject as well as domain name
 	- Each page has its own unique link that directs to the page itself *within* the website
 - A website doesn’t necessarily have to have multiple pages – **it’s possible to have a website with one page only that updates as needed**
 
-==WEB SERVER==: a computer that hosts one or more websites on the [[internet vs web#What is the internet?|Internet]] 
-- ==HOSTING==: all files are available in that one computer in order for a website to work properly
+<mark style="background: #FFF3A3A6;">WEB SERVER</mark>: a computer that hosts one or more websites on the [[internet vs web#What is the internet?|Internet]] 
+- <mark style="background: #FFF3A3A6;">HOSTING</mark>: all files are available in that one computer in order for a website to work properly
 
-==SEARCH ENGINE==: a web service that lets you find other web pages
+<mark style="background: #FFF3A3A6;">SEARCH ENGINE</mark>: a web service that lets you find other web pages
 - There are different types of search engines controlled by different companies. These include:
 	- Google
 	- Bing
@@ -42,22 +42,21 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 > 
 > The  [source](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines) also uses a kind of library analogy, but in this case I prefer this analogy more since visualizing webpages as a single page instead of a book makes more sense to me.
 
-
-==CLIENTS==: computers connected to the Internet, used by a typical web user, that requests information to a server in order to access a website
+<mark style="background: #FFF3A3A6;">CLIENTS</mark>: computers connected to the Internet, used by a typical web user, that requests information to a server in order to access a website
 
 # How are websites accessed?
 
 ## Terms
 
-==INTERNET CONNECTION==: allows the user to send and receive data on the web
+<mark style="background: #FFF3A3A6;">INTERNET CONNECTION</mark>: allows the user to send and receive data on the web
 
-==PROTOCOL==: a system of rules that define how data is exchanged between computers; the devices **must** agree on the format of the data that is being exchanged
+<mark style="background: #FFF3A3A6;">PROTOCOL</mark>: a system of rules that define how data is exchanged between computers; the devices **must** agree on the format of the data that is being exchanged
 - Types include:
-	- ==TRANSMISSION CONTROL PROTOCOL (TCP) / INTERNET PROTOCOL (IP)==: communication protocols that define how data travels across the internet
+	- <mark style="background: #FFF3A3A6;">TRANSMISSION CONTROL PROTOCOL (TCP) / INTERNET PROTOCOL (IP):</mark> communication protocols that define how data travels across the internet
 		- Example → a car/bike that you use to get to the store; aka the *method of travel* used to get to a destination
-	- ==HYPERTEXT TRANSFER PROTOCOL (HTTP)==: a protocol that defines a language for clients and servers to speak to each other
+	- <mark style="background: #FFF3A3A6;">HYPERTEXT TRANSFER PROTOCOL (HTTP)</mark>: a protocol that defines a language for clients and servers to speak to each other
 
-==DOMAIN NAME SYSTEM (DNS)==: kind of like an address book for websites; used by the browser to find a specific website’s IP address depending on the domain name typed in
+<mark style="background: #FFF3A3A6;">DOMAIN NAME SYSTEM (DNS)</mark>: kind of like an address book for websites; used by the browser to find a specific website’s IP address depending on the domain name typed in
 - The browser must find out what server the domain is in to send HTTP messages to the right place
 - [[internet vs web#^62944a|More info on domain names]]
 ## Order of connection to a website
