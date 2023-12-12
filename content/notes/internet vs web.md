@@ -1,5 +1,6 @@
 ---
 date: 2023-12-05
+last updated: 2023-12-12
 tags:
   - theodinproject
 ---
@@ -24,8 +25,9 @@ tags:
 ==INTERNET SERVICE PROVIDER (ISP)==: a provider that has its own network of routers that has the ability to connect to other ISPs’ routers
 
 ==INTERNET PROTOCOL (IP) ADDRESS==: the unique combination of numbers that identifies a specific computer connected to a network
+- [[web-related concepts#Terms|More information on protocols]]
 
-==DOMAIN NAME==: aliases that IP addresses can have for human readability
+==DOMAIN NAME==: aliases that IP addresses can have for human readability ^62944a
 - Example → IP address 142.250.190.78 = Domain name *google.com*
 
 ==PACKETS==: information broken down in order for it to travel through the internet and reassembled once it reaches its destination.
