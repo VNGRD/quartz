@@ -6,16 +6,16 @@ tags:
 ---
 
 # What is a document object model?
+==Outlines a document, like **HTML** or **XML**, into a kind of tree with its different elements and attributes as their own “leaves”==
 - aka “DOM” for short
-- ==Outlines a document, like **HTML** or **XML**, into a kind of tree with its different elements and attributes as their own “leaves”==
-	- The “leaves” are referred to as **nodes**. Therefore, each element in the tree is a node.
-		- Types of nodes for HTML DOM:
-			1. Document node
-			2. Element nodes
-			3. Attribute nodes
-			4. Text nodes
-			5. Comment nodes
-		- These kinds of nodes match with its matching element in the HTML file.
+- The “leaves” are referred to as **nodes**. Therefore, each element in the tree is a node.
+	- Types of nodes for HTML DOM:
+		1. Document node
+		2. Element nodes
+		3. Attribute nodes
+		4. Text nodes
+		5. Comment nodes
+	- These kinds of nodes match with its matching element in the HTML file.
 	- The topmost node of the tree is the document node.
 - Browsers create DOMs when loading web pages into the client’s screen, but the DOM itself doesn’t have to be a structure of a tree.
 	- After receiving the OK from the server and sent a copy of the website into the client, the browser “downloads the HTML into local memory and automatically parses it to display the page on screen” (1)
