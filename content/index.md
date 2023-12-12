@@ -31,6 +31,7 @@ It feels pretentious calling this vault a “second brain” when, in reality, i
 ## more info
 > *extra things that don't really fit in anywhere else*
 
+- i take my notes using [Obsidian](https://obsidian.md/)!
 - **highlight color schemes:**
 	- highlighting is provided by the Obsidian plugin [Highlightr](https://github.com/chetachiezikeuzor/Highlightr-Plugin)
 	- regular highlights marked as ```==equal signs==``` indicate **definitions**

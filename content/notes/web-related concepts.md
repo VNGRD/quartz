@@ -1,3 +1,11 @@
+---
+date: 2023-12-10
+last updated: 2023-12-12
+tags:
+  - theodinproject
+  - "#webdev"
+source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines
+---
 # Parts of the web
 
 ==WEB PAGE==: a document that can be displayed in a browser, accessible by a unique address ^040d6e

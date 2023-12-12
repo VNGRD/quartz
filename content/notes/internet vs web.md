@@ -31,6 +31,7 @@ tags:
 - Example → IP address 142.250.190.78 = Domain name *google.com*
 
 ==PACKETS==: information broken down in order for it to travel through the internet and reassembled once it reaches its destination.
+- [[web-related concepts#Order of connection to a website|More nformation on packets]]
 
 # What is the web?
 ==WORLD WIDE WEB==: the *software*, so to speak; uses the internet to present information to the user in the form of wepbages, documents, etc.
