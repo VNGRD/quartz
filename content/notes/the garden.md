@@ -1,5 +1,5 @@
 ---
-date: 2023-12-05
+created: 2023-12-05
 tags:
   - diary
 ---

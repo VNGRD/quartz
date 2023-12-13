@@ -1,5 +1,6 @@
 ---
 desc: notes related to learning and classes i'm taking 🌱
+created: 2023-12-05
 last updated: 2023-12-12
 tags:
   - moc
@@ -8,8 +9,8 @@ tags:
 
 > *notes related to learning and classes i'm taking 🌱*
 
-# the odin project
-## foundations
+## the odin project
+### foundations
 - [[don't ask just to ask]]
 - [[internet vs web]]
 - [[the xy problem]]

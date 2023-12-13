@@ -1,4 +1,6 @@
 ---
+desc: compilation of where my to-dos are across my vault ✅
+created: 2023-12-12
 last updated: 2023-12-12
 tags:
   - moc
