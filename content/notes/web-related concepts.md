@@ -86,7 +86,7 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 1. HTML is parsed first. 
 2. The browser then finds any ```<link>``` references linking to CSS stylesheets and ```<script>``` references linking to JavaScript files.
 3. Using the reference found, the browser parses the appropriate CSS and JavaScript files.
-4. *“The browser generates an in-memory <mark style="background: #FFB86CA6;">Document Object Model (DOM)</mark> tree from the parsed HTML, generates an in-memory <mark style="background: #FFB86CA6;">CSSOM</mark> structure from the parsed CSS, and <mark style="background: #FFB86CA6;">compiles and executes</mark> the parsed JavaScript.“*
+4. *“The browser generates an in-memory [[document object model|Document Object Model (DOM)]] tree from the parsed HTML, generates an in-memory <mark style="background: #FFB86CA6;">CSSOM</mark> structure from the parsed CSS, and <mark style="background: #FFB86CA6;">compiles and executes</mark> the parsed JavaScript.“*
 	- Hey um what does this mean
 1. Using the information from the **DOM** and **CSSOM** trees, the browser rebuilds the page and presents it on the screen to the user.
 
