@@ -1,6 +1,6 @@
 ---
 created: 2023-12-10
-last updated: 2023-12-12
+last updated: 2023-12-14
 tags:
   - theodinproject
   - "#webdev"
@@ -55,10 +55,13 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 	- <mark style="background: #FFF3A3A6;">TRANSMISSION CONTROL PROTOCOL (TCP) / INTERNET PROTOCOL (IP):</mark> communication protocols that define how data travels across the internet
 		- Example → a car/bike that you use to get to the store; aka the *method of travel* used to get to a destination
 	- <mark style="background: #FFF3A3A6;">HYPERTEXT TRANSFER PROTOCOL (HTTP)</mark>: a protocol that defines a language for clients and servers to speak to each other
+		- [[hypertext|Notes on hypertext]]
 
 <mark style="background: #FFF3A3A6;">DOMAIN NAME SYSTEM (DNS)</mark>: kind of like an address book for websites; used by the browser to find a specific website’s IP address depending on the domain name typed in
 - The browser must find out what server the domain is in to send HTTP messages to the right place
-- [[internet vs web#^62944a|More info on domain names]]
+- More notes on domain names:
+	- [[internet vs web#^62944a|internet vs web → domain names]]
+	- [[domain names and dns requests]]
 ## Order of connection to a website
 1. Type in address of the website you want to visit (*you* as in the *client*)
 2. Browser finds real address of server that the website lives on via the DNS server
@@ -78,7 +81,7 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 	- Sending data is much faster in bite-sized portions. Think of it like chucking small rocks at something instead of a huge boulder
 		- These bite-sized portions can also go through different paths of their own at the same time, like your GPS rerouting you to side streets because it’s rush hour and going through the freeway is going to be a clogged nightmare
 
-## Order of component file parsing
+# Order of component file parsing
 
 > [!faq] What is parsing?
 > Parsing is an action in which the [[web-related concepts#^5fafd9|component files]] are loaded in the correct order as the browser loads the web page sent by the server.
@@ -94,7 +97,7 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 > Imagine that, in the server, the component files are like people in a line with an assigned number from 1 to 5. The people assigned those numbers then get  on the bus but they can sit wherever they like. When they get to their destination, they exit the bus and enter through the gates of their destination in the same order that they were in according to their assigned number. In this case, it seems like multiple items are parsed all at once according to what parts of the CSS and JavaScript the HTML file references in its code.
 
 # To do
-- [ ] Understand **DOM** and **CSSOM**
+- [x] Understand **DOM** and **CSSOM**
 # External links and sources
 - [What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)
 - [How the web works - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#clients_and_servers)
