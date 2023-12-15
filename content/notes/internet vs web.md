@@ -45,3 +45,6 @@ tags:
 - [How Does The Internet Work? - BBC Click](https://www.youtube.com/watch?v=eHp1l73ztB8)
 - [How does the Internet work? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
 - [How the Internet Works in 5 Minutes - YouTube](https://www.youtube.com/watch?v=7_LPdttKXPc&t=46s)
+
+# Related
+- [[web-related concepts]]

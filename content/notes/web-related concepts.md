@@ -54,7 +54,12 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 - Types include:
 	- <mark style="background: #FFF3A3A6;">TRANSMISSION CONTROL PROTOCOL (TCP) / INTERNET PROTOCOL (IP):</mark> communication protocols that define how data travels across the internet
 		- Example → a car/bike that you use to get to the store; aka the *method of travel* used to get to a destination
+		- TCP breaks data into packets and reassembles it.
+		- IP is responsible for providing addressing and routing information.
 	- <mark style="background: #FFF3A3A6;">HYPERTEXT TRANSFER PROTOCOL (HTTP)</mark>: a protocol that defines a language for clients and servers to speak to each other
+		- The communication standard for sending and receiving documents on the web
+			- Transfers files from a web server → web browser
+			- Interprets hyperlinks to navigate to a specific location
 		- [[hypertext|Notes on hypertext]]
 
 <mark style="background: #FFF3A3A6;">DOMAIN NAME SYSTEM (DNS)</mark>: kind of like an address book for websites; used by the browser to find a specific website’s IP address depending on the domain name typed in
@@ -84,14 +89,13 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 # Order of component file parsing
 
 > [!faq] What is parsing?
-> Parsing is an action in which the [[web-related concepts#^5fafd9|component files]] are loaded in the correct order as the browser loads the web page sent by the server.
+> [[parse|Parsing]] is an action in which the [[web-related concepts#Parts of the web|component files]] are loaded in the correct order as the browser loads the web page sent by the server.
 
 1. HTML is parsed first. 
 2. The browser then finds any ```<link>``` references linking to CSS stylesheets and ```<script>``` references linking to JavaScript files.
 3. Using the reference found, the browser parses the appropriate CSS and JavaScript files.
-4. *“The browser generates an in-memory [[document object model|Document Object Model (DOM)]] tree from the parsed HTML, generates an in-memory <mark style="background: #FFB86CA6;">CSSOM</mark> structure from the parsed CSS, and <mark style="background: #FFB86CA6;">compiles and executes</mark> the parsed JavaScript.“*
-	- Hey um what does this mean
-1. Using the information from the **DOM** and **CSSOM** trees, the browser rebuilds the page and presents it on the screen to the user.
+4. The browser generates an in-memory [[document object model|Document Object Model (DOM)]] tree from the parsed HTML, generates an in-memory [[css object model|CSSOM]] structure from the parsed CSS, and [[compile|compiles]] and executes the parsed JavaScript.
+1. Using the information from the [[document object model|DOM]] and [[css object model|CSSOM]] trees, the browser rebuilds the page and presents it on the screen to the user.
 
 > [!example] Another fun analogy → parsing
 > Imagine that, in the server, the component files are like people in a line with an assigned number from 1 to 5. The people assigned those numbers then get  on the bus but they can sit wherever they like. When they get to their destination, they exit the bus and enter through the gates of their destination in the same order that they were in according to their assigned number. In this case, it seems like multiple items are parsed all at once according to what parts of the CSS and JavaScript the HTML file references in its code.
@@ -101,3 +105,6 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 # External links and sources
 - [What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)
 - [How the web works - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#clients_and_servers)
+
+# Related
+- [[internet vs web]]
