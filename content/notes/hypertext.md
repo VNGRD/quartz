@@ -1,5 +1,5 @@
 ---
-created: 2023-12-14
+date: 2023-12-14
 last updated: 2023-12-14
 tags:
   - glossary

@@ -1,6 +1,6 @@
 ---
 desc: notes related to learning and classes i'm taking 🌱
-created: 2023-12-05
+date: 2023-12-05
 last updated: 2023-12-12
 tags:
   - moc
@@ -16,3 +16,6 @@ tags:
 - [[the xy problem]]
 - [[web-related concepts]]
 	- [[document object model]]
+	- [[css object model]]
+- [[domain names and dns requests]]
+	- [[uniform resource locators]]

@@ -1,6 +1,6 @@
 ---
 desc: journal entries and brain dumps 💌
-created: 2023-12-05
+date: 2023-12-05
 last updated: 2023-12-05
 tags:
   - moc
