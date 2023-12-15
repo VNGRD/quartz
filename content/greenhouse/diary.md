@@ -11,3 +11,4 @@ tags:
 ## 2023
 ### december
 - [[the garden]]
+- [[seeds taking root]]
