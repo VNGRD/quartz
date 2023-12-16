@@ -1,5 +1,4 @@
 ---
-desc: notes related to learning and classes i'm taking 🌱
 date: 2023-12-05
 last updated: 2023-12-12
 tags:

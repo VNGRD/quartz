@@ -2,8 +2,7 @@
 date: 2023-12-15
 last updated: 2023-12-15
 tags:
-  - glossary
-  - webdev
+  - webdev/glossary
 source: https://developer.mozilla.org/en-US/docs/Glossary/Compile
 ---
 

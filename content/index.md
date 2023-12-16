@@ -1,15 +1,18 @@
 ---
 title: welcome to the greenhouse! 🏡
-created: 2023-12-05
+date: 2023-12-05
 last updated: 2023-12-12
 tags:
   - moc
 ---
 <img style="height: 150px; width: 100%; object-fit: cover; box-shadow: 1px 2px 3px rgba(0,0,0,.5);" src="https://media.discordapp.net/attachments/587845669562220592/1000695070875463730/Tumblr_l_118815257339206.gif">
 
-> *“Anyone can learn to fight. Hardly anyone learns to think.”*
->
-> Tamsyn Muir, Gideon the Ninth
+> *in the garden
+> fall through again
+> the ever changing bloom
+> will change you into something new*
+> 
+> halina heron, “in the garden”
 
 It feels pretentious calling this vault a “second  brain” when, in reality, it’s more akin to a Five Star™ 5 subject notebook where I just put whatever in it, especially when you compare this vault to other digital gardens online. That said, the more I work on this garden, the more I realize the benefits of actively making connections as you learn something new, so this garden is an exercise in such connections as I move forward in my learning journey.
 
@@ -23,9 +26,11 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 ## places of interest
 > *don’t know where to go? you can start here!*
 
-[[diary]] – journal entries 💌
+[[diary]] – journal entries, brain dumps, highlights and miscellaneous entries 💌
 
 [[nursery]] – notes related to learning and classes i'm taking 🌱
+
+[[outside wilds]] - to read  and to watch, stepping outside of the garden and into the wider world 🌎
 
 [[to-do list]] – compilation of where my to-dos are across my vault ✅
 

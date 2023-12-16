@@ -1,5 +1,4 @@
 ---
-desc: compilation of where my to-dos are across my vault ✅
 date: 2023-12-12
 last updated: 2023-12-14
 tags:

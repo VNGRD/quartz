@@ -1,8 +1,7 @@
 ---
 date: 2023-12-12
 tags:
-  - webdev
-  - glossary
+  - webdev/glossary
 ---
 
 # What is a document object model?

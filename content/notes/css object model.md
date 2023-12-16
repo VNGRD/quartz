@@ -2,8 +2,7 @@
 date: 2023-12-14
 last updated: 2023-12-14
 tags:
-  - webdev
-  - glossary
+  - webdev/glossary
 source: https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 ---
 
