@@ -7,10 +7,7 @@ tags:
 ---
 <img style="height: 150px; width: 100%; object-fit: cover; box-shadow: 1px 2px 3px rgba(0,0,0,.5);" src="https://media.discordapp.net/attachments/587845669562220592/1000695070875463730/Tumblr_l_118815257339206.gif">
 
-> *in the garden
-> fall through again
-> the ever changing bloom
-> will change you into something new*
+> *in the garden / fall through again / the ever changing bloom /will change you into something new*
 > 
 > halina heron, “in the garden”
 
