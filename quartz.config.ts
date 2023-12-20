@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "sprout 🌱",
+    pageTitle: "mdhvn.garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -25,18 +25,18 @@ const config: QuartzConfig = {
           gray: "#9ca0b0",
           darkgray: "#5c5f77",
           dark: "#4c4f69",
-          secondary: "#5a7a44", // title, folder names, body links, callouts
-          tertiary: "#ef9f76", // text selection, link hover
+          secondary: "#4d93a1", // title, folder names, body links, callouts
+          tertiary: "#b63b1d", // text selection, link hover
           highlight: "rgba(166, 227, 161, 0.15)", // link and tag highlight
         },
         darkMode: {
-          light: "#1e1e2e", // bg
+          light: "#0a1017", // bg
           lightgray: "#313244",
           gray: "#9399b2",
           darkgray: "#bac2de",
           dark: "#cdd6f4",
-          secondary: "#a6e3a1", // title, folder names, body links, callouts
-          tertiary: "#f38ba8", // text selection, link hover
+          secondary: "#4d93a1", // title, folder names, body links, callouts
+          tertiary: "#b63b1d", // text selection, link hover
           highlight: "rgba(245, 224, 220, 0.15)", // link and tag highlight
         },
       },
