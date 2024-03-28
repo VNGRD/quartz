@@ -1,11 +1,11 @@
 ---
 title: welcome to the greenhouse! 🏡
 date: 2023-12-05
-last updated: 2023-12-16
+last updated: 2024-03-28
 tags:
   - moc
 ---
-<img style="height: 150px; width: 100%; object-fit: cover; box-shadow: 1px 2px 3px rgba(0,0,0,.5);" src="https://media.discordapp.net/attachments/587845669562220592/1000695070875463730/Tumblr_l_118815257339206.gif">
+<img style="height: 150px; width: 100%; object-fit: cover; box-shadow: 1px 2px 3px rgba(0,0,0,.5);" src="https://64.media.tumblr.com/1f2e6b736105300e46799de68fdefa0a/79b73a9a98955ada-71/s1280x1920/2f789ef2cc0259d8dbf69938ee28b56aa17c915d.gifv">
 
 > *in the garden / fall through again / the ever changing bloom / will change you into something new*
 > 
@@ -32,6 +32,7 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 
 [[to-do list]] – compilation of where my to-dos are across my vault ✅
 
+[[writing]] – fun little things i wrote and will probably never finish 🖋️
 
 ## more info
 > *credits and pointers of note regarding the vault*
