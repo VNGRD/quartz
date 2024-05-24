@@ -10,14 +10,18 @@ tags:
 > *A Viera born of the Veena tribes based in the Skatay Range of Southern Othard, and known widely around Eorzea as the Warrior of Light.*
 
 # profile
-![](attachments/ffxiv/rune.png)
-
 **NAME:** Rune “Roo” Monna (forest name: Rúni Monnawesfv)
+
 **AGE:** Viera equivalent to mid-20s
+
 **GENDER:** Male → he/him
+
 **NAMEDAY:** 22nd Sun of the 1st Umbral Moon
+
 **GUARDIAN:** Oschon, the Wanderer
+
 **STARTING CITY-STATE:** Gridania
+
 **GRAND COMPANY:** Maelstrom → Second Storm Lieutenant
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y3PPbUA9utD7rl6IvEPna?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -30,7 +34,6 @@ tags:
 	- In the battlefield, people would describe him as a controlled chaos. His strikes are deliberate and precise, but he does so in blindingly fast fashion that this enemies are left to wonder what the hell just happened before they are cut to pieces.
 
 # personality
-![](attachments/ffxiv/rune1.png)
 - **A TRANQUIL SPIRIT →** Outside of battle and in places he deems safe, he lets down his guard and generally is calm, tranquil, and gentle. He loves to take naps under the shade of trees, as it reminds him of the forest he once called home. His demeanor makes it so that he is easily approachable by animals. It's not unusual to find him napping beneath a tree with a bird trying to nest in his long hair.
 	- Social cues are definitely a challenge for him  - a combo of him being raised in a remote village in Othard, being a foreigner in Eorzea (for only a time, since eventually he calls it home), and being some flavor of neurodivergent. 
 - **INTROVERTED HERO →** He does tend to keep to himself and honestly prefers it that way, which makes him feel very ill-suited for the more political side of things that the scions get involved with. He's just glad that the others are there to do the talking, as he would rather be pointed as a weapon toward the enemy instead.
@@ -56,7 +59,9 @@ On the flip side, Rune also enables Zenos's behavior by simply existing. To the 
 Overall, it’s a relationship deeply entrenched in their violent vices. It’s the only kind of language that they are able to speak to each other with, after all. There’s no flowers to be shared here, or for romantic songs to be sung. These two just really want to fucking kill each other and somehow the “do you think love can bloom on a battlefield” quote applies here.
 
 > *Zenos:* …to bite down on my jugular, to feel the warmth fill your mouth and run over even as you drink deep.
+
 > *Rune:* prommy? 🥺
+
 > *Aymeric, back at base camp:* I get the feeling we need to send Rune back to therapy.
 
 ### bad ending
@@ -143,7 +148,6 @@ The anguish he experienced during this time period made it very hard for him to 
 	- "alright i'm so tired i'm just gonna fuck off and go fishing for a while" moment
 	- Immediately after the events of Shadowbringers did Rune feel shaken up about his connection with the Light, and decided to seek out teachers of the dark in order to keep a healthy balance of both. This is when he learns of Reapers and their pacts with voidsent, and forms a bargain with one such voidsent in order to keep himself in check. Similarly, he finds a teacher in a man named Fray and also begins his training as a Dark Knight in this way.
 ### alternate timeline → forgiven retribution
-![](attachments/ffxiv/rune2.png)
 
 **See [[lightwarden au]] for extra info!**
 - The group decide that both Axi and Rune were to split the lightwardens between themselves
