@@ -9,6 +9,7 @@ tags:
 **PROFICIENCIES:** destruction, conjuration, one-handed, lockpicking, sneak
 
 # Personality and characterization
+- **Epithet:** Yulia Stormsinger
 - **Theme:** Chapter Doof - Extended Edition from Mad Max: Fury Road
 - Ambitious, sometimes to the point of recklessness
 - With the soul of a dragon, blood of the storms, and a heart of gold

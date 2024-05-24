@@ -1,14 +1,12 @@
 ---
 date: 2024-03-28
-last updated: 2024-03-28
 tags:
   - writing
+  - ffxiv
 ---
 
 **thm.** andante agitato "the raid" - nicholas britell. start at 2:00
-
 **setting.** ffxiv, lightwarden au
-
 **summary.** lost to the abundance of light that overwhelmed him body and soul, rune becomes a lightwarden with all the power of the previous lightwardens combined and threatens to tip the scales into another calamity once more. the scions, desperate and out of options, turn to the one man that they knew to be the warrior of light's equal.
 
 ---
@@ -53,7 +51,9 @@ He felt a hand cradle the back of his head as Rune returned the hug, his confess
 
 "There is no choosing here. One of us will die. And, if what you say about yourself and your Echo is true," Rune pulled back to gently cup Zenos's face, giving him a tranquil smile, "it won't be you.
 
-"I agree with my friends. You have to kill me. Will you not do me this last favor, my dear?"
+"I agree with my friends. You have to kill me. Will you not do me this last favor, my dear? Isn't that what you've always wanted?" Rune let go of him, and backed away, his smile never faltering. “But it's such a shame. I never would have expected you of all people to grovel at me and beg me to stay. It's an achievement of sorts, don't you think?” He let out another gentle laugh, and his steps were the only sound to echo in the white halls as he continued back, back, back.
+
+Only for him to suddenly, viciously, violently lunge forward with a blinding strike in the next split second, a lance of pure light materializing in his right hand.
 
 # Related
 - [[rune monna]]

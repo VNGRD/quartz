@@ -9,6 +9,7 @@ tags:
 > *notes related to learning, classes i'm taking, and personal research* 🌱
 
 ## the odin project
+> See also: [[glossary index]]
 ### foundations
 - [[don't ask just to ask]]
 - [[internet vs web]]
@@ -19,5 +20,8 @@ tags:
 - [[domain names and dns requests]]
 	- [[uniform resource locators]]
 
+### other
+- [[kernel level]]
+- [[the dark forest and the cozy web]]
 ## nursing
 - [[implicit bias]]

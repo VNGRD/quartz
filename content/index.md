@@ -13,11 +13,12 @@ tags:
 
 It feels pretentious calling this vault a “second  brain” when, in reality, it’s more akin to a Five Star™ [[gardening existential crisis|five-subject notebook]] where I just put whatever in it, especially when you compare this vault to other digital gardens online. That said, the more I work on this garden, the more I realize the benefits of actively making connections as you learn something new, so this garden is an exercise in such connections as I move forward in my learning journey.
 
-**Current learning and research of interest:**
+**Current learning, research of interest, and other things I’m really into at the moment:**
 1. HTML & CSS via [The Odin Project](https://www.theodinproject.com/dashboard) and [freeCodeCamp's](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Responsive Web Design course
 2. Foundations of the Internet and the web
 3. Web revival and my personal relationship with technology
 4. Digital gardening – what is it, and how can it transform the way people think? How will it work for *me* personally?
+5. Final Fantasy XIV. If you care, **there are heavy spoilers in this garden all the way up to the latest Endwalker patch.** You have been warned. 💗
 
 ---
 
@@ -27,6 +28,8 @@ It feels pretentious calling this vault a “second  brain” when, in reality, 
 [[diary]] – journal entries, brain dumps, highlights and miscellaneous entries 💌
 
 [[nursery]] – notes related to learning and classes i'm taking 🌱
+
+[[glossary index]] – index of notes and definitions tagged as *glossary* 📇
 
 [[outside wilds]] - to read  and to watch, stepping outside of the garden and into the wider world 🌎
 

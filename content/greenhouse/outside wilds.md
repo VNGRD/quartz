@@ -17,13 +17,25 @@ tags:
 
 > [!NOTE]- Note to self
 > I probably shouldn’t delete these when I’m done with them - instead, **I should mark them as done, link them with the relevant note I probably made, and keep them here** for, well, safekeeping. The downside to this is that the articles and videos are relevant on the content staying online.
+> 
+> Also, I should probably add new things from the top rather than the bottom, since scrolling downward is gonna be pretty annoying.
 
 ## 12.2023
 ### to read 📑
-- [x] [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) → [[gardening existential crisis]]
-- [ ] [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) → [[gardening existential crisis]]
-- [ ] [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) → //
-- [ ] [Stock and flow / Snarkmarket](https://snarkmarket.com/2010/4890/)
+- [x] [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) ([[Digital Gardening for Non-Technical Folks.pdf|PDF]]) → [[gardening existential crisis]]
+
+> - *We have reached the point in the gardening hype train where people seem to think backlinks, hover previews, and visual graphs are what define a “digital garden."*
+>   
+> - *This is misguided. Gardening is a practice that treats a personal website as a constantly evolving landscape where you develop your ideas in public.*
+>   
+> - *[It is] explorable, rather than structured as a strictly linear stream of posts… [and] slowly grown over time, rather than creating “finished” work that you never touch again.”*
+
+
+- [x] [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) ([[A Brief History & Ethos of the Digital Garden-annotated.pdf|PDF]]) → [[gardening existential crisis]] 
+- [ ] [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) ([[Tools for Transformative Thought.pdf|PDF]])
+- [ ] [Stock and flow / Snarkmarket](https://snarkmarket.com/2010/4890/) 
+- [ ] [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) → [[gardening existential crisis]]
+	-  did a quick skim – seems very relevant to me wondering what kind of “fruit” with be produced with my garden :0
 
 ### to watch📺
 - [ ] [How to be Human Online - YouTube](https://www.youtube.com/watch?v=vC6uYyUfMH4)

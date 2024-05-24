@@ -4,7 +4,6 @@ tags:
   - diary
 ---
 
-
 I'm trying to think of why the idea of digital gardening appeals so much to me. Is it the intentionality behind learning new things and making connections? Is it because it is a kind of antithesis to what social media acts as – the [stock vs the flow](https://snarkmarket.com/2010/4890/)?
 
 > [!quote] 
@@ -25,4 +24,4 @@ At the end of the day, though, I should probably focus less on what this vault i
 - [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening)
 # Related
 - [[outside wilds#12.2023]]
-- [[the garden]] → *Is my garden really a garden? Or is it just a flowery notebook filled with class notes and haphazardly strewn about musings?*
+- [[the garden]] → *Is my garden really a garden? Or is it just a flowery notebook filled with class notes and haphazardly strewn-about musings?*
