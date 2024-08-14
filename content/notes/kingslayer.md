@@ -5,7 +5,7 @@ tags:
   - writing
 ---
 
-Putting his hands over his face, he let out a shaky sigh. “In the end, he's still my father,” Aymeric lamented. “I know he must die, and yet…” The anxiety that swirled in his heart threatened to spill over, muffling all noise that were not in his immediate vicinity; as a result, he didn't take notice of soft bootsteps clacking against the stone floor of the office.
+Putting his hands over his face, he let out a shaky sigh. “In the end, he's still my father,” Aymeric lamented. “I know he must die, and yet…” The anxiety that swirled in his heart threatened to spill over, muffling all noise that were not in his immediate vicinity and leaving his pulse to quicken painfully; as a result, he didn't take notice of soft bootsteps clacking against the stone floor of the office.
 
 Cool hands gently cupped his face, taking him by surprise, and he removed his hands from his face and looked up to find Rune gazing down back at him with a serene expression. It was very nearly enough to remove almost, if not all, of the unease that plagued him.
 
@@ -21,7 +21,7 @@ The gentle hands that held him moved slightly as Rune nodded. “And they do nee
 
 ---
 
-“Are you certain about this, Rune?” Estinien asked, his arms crossed as he leaned against the walls of the room. “There's thirteen of them and only one of you.” Rune gave a simple nod in response and turned his gaze towards the Elezen. If it weren’t for Estinien's hardened heart, what he saw in that gaze wouldn't have phased him, and yet the way Rune's eyes seemed to be devoid of all light despite the brightness of the room gave a deep chill in his bones. 
+“Are you certain about this, Rune?” Estinien asked, his arms crossed as he leaned against the walls of the room. “There's thirteen of them and only one of you.” Rune gave a simple nod in response and turned his gaze towards the Elezen. Thanks to Estinien's hardened heart, what he saw in that gaze didn’t phase him, and yet the way Rune's eyes seemed to be devoid of all light despite the brightness of the room gave a deep chill in his bones. 
 
 Rune was furious. That much was clear.
 

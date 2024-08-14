@@ -31,7 +31,7 @@ tags:
 - Example → IP address 142.250.190.78 = Domain name *google.com*
 
 <mark style="background: #FFF3A3A6;">PACKETS</mark>: information broken down in order for it to travel through the internet and reassembled once it reaches its destination.
-- [[web-related concepts#Order of connection to a website|More nformation on packets]]
+- [[web-related concepts#Order of connection to a website|More information on packets]]
 
 # What is the web?
 <mark style="background: #FFF3A3A6;">WORLD WIDE WEB</mark>: the *software*, so to speak; uses the internet to present information to the user in the form of wepbages, documents, etc.

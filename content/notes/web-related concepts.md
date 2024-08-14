@@ -8,7 +8,7 @@ source: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mech
 ---
 # Parts of the web
 
-<mark style="background: #FFF3A3A6;">WEB PAGE</mark>: a document that can be displayed in a browser, accessible by a unique address
+==WEB PAGE==: a document that can be displayed in a browser, accessible by a unique address
 - Written in HTML
 - Employs the use of style information, scripts, and media with **component files**.
 	- Style information is controlled by CSS

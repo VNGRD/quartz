@@ -5,7 +5,7 @@ tags:
 ---
 
 # What is a document object model?
-<mark style="background: #FFF3A3A6;">Outlines a document, like **HTML** or **XML**, into a kind of tree with its different elements and attributes as their own “leaves”</mark>
+Outlines a document, like **HTML** or **XML**, into a kind of tree with its different elements and attributes as their own “leaves”
 - aka “DOM” for short
 - The “leaves” are referred to as **nodes**. Therefore, each element in the tree is a node.
 	- Types of nodes for HTML DOM:

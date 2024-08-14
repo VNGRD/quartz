@@ -22,7 +22,7 @@ tags:
 
 ## 12.2023
 ### to read 📑
-- [x] [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) ([[Digital Gardening for Non-Technical Folks.pdf|PDF]]) → [[gardening existential crisis]]
+- [x] [Digital Gardening for Non-Technical Folks](https://maggieappleton.com/nontechnical-gardening) ([[Digital Gardening for Non-Technical Folks.pdf|PDF]]) → see: [[gardening existential crisis]]
 
 > - *We have reached the point in the gardening hype train where people seem to think backlinks, hover previews, and visual graphs are what define a “digital garden."*
 >   
@@ -30,10 +30,9 @@ tags:
 >   
 > - *[It is] explorable, rather than structured as a strictly linear stream of posts… [and] slowly grown over time, rather than creating “finished” work that you never touch again.”*
 
-
-- [x] [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) ([[A Brief History & Ethos of the Digital Garden-annotated.pdf|PDF]]) → [[gardening existential crisis]] 
-- [ ] [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) ([[Tools for Transformative Thought.pdf|PDF]])
-- [ ] [Stock and flow / Snarkmarket](https://snarkmarket.com/2010/4890/) 
+- [x] [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) ([[A Brief History & Ethos of the Digital Garden-annotated.pdf|PDF]]) → see: [[gardening existential crisis]] 
+- [x] [How can we develop transformative tools for thought?](https://numinous.productions/ttft/) ([[Tools for Transformative Thought.pdf|PDF]]) → see: [[notes on tools for transformative thought]]
+- [x] [Stock and flow / Snarkmarket](https://snarkmarket.com/2010/4890/) ([[Stock and flow.pdf|PDF]]) → see: [[stock and flow isn't really my thing]]
 - [ ] [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/) → [[gardening existential crisis]]
 	-  did a quick skim – seems very relevant to me wondering what kind of “fruit” with be produced with my garden :0
 

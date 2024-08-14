@@ -40,7 +40,7 @@ tags:
 
 ---
 
-When Rune woke up one day in the Baldesion Annex feeling a terrible, inexplicable ache in his heart and with tears in his eyes, it took until noon for the Scions – namely, the twins, who were curious as to his whereabouts and armed with pastries from the Last Stand – to find him still in his room, curled up under his covers and hugging a pillow as if his life depended on it. 
+When Rune woke up one day in the Baldesion Annex feeling a terrible, inexplicable ache in his heart, it took until noon for the Scions – namely, the twins, who were curious as to his whereabouts and armed with pastries from the Last Stand – to find him still in his room, curled up under his covers and hugging a pillow as if his life depended on it. 
 
 “Rune?” Alisaie called out softly, slowly sticking her head through the small opening she made for herself at the door, and startled to find him still in bed. “…oh.” The pillow that he was hugging was covering his face, but from her view, she could only note the tangled mess that was Rune's long hair and his blankets. 
 
@@ -52,11 +52,11 @@ Behind her, Alphinaud tried craning his neck over his sister's head, curious as 
 
 “Of course it isn't,” she retorted. “It's just a little strange, don't you think?” Alphinaud couldn't help but agree, and nodded. 
 
-Although the Scions would constantly bid Rune to take as much rest as he could at every opportunity, the Viera still would rise at the same time as the sun did - much to Y'shtola's chagrin in particular. Now knowing how much that particular habit of his seemed impossible to break, finding him dead asleep at noon certainly was strange.
+Although the Scions would constantly bid Rune to take as much rest as he could at every opportunity, the Viera still would rise at the same time as the sun did - much to Y'shtola's chagrin in particular. Knowing how much that particular habit of his seemed impossible to break, finding him dead asleep at noon certainly was strange.
 
 “Let's come back later to give him the pastries, then,” Alphinaud suggested. “Only the Twelve know how much rest he needs.” Alisaie nodded, and closed the door just as slowly as she opened it earlier with a soft *click.*
 
-If only they had known what was haunting Rune's heart just then. Or that he was awake the entire time.
+If only they had known that Rune was awake the entire time. Or what feeling was haunting him – and that he knew he was the only one throughout the universe to feel it.
 
 ---
 
@@ -68,7 +68,7 @@ Blue eyes, as cold and lifeless as he was alive and dead.
 
 Rune knew that, somewhere at the end of the universe, Zenos was well and truly gone. So why did it *hurt?*
 
-Was it the fact that he may not be able to return to the aetherial sea? Was it the cold, aching loneliness he had left him in after they had finally, *finally* admitted their feelings for each other after so long — albeit through a duel to the down to the very wire, with their lifestrings shredded beyond repair? Was it abandoning him after the latter had followed him to the very end when the Scions were forced to retreat? Was it because, even in the face of true despair, he had believed in him the most?
+Was it the fact that he may not be able to return to the aetherial sea? Was it the cold, aching loneliness he had left him in after they had finally, *finally* admitted their feelings for each other after so long — albeit through a duel to the down to the very wire, with their lifestrings shredded beyond repair? Was it abandoning him after the latter had followed him to the very end, at a place where, at a place where even the Scions were forced to retreat? Was it because, even in the face of true despair, he had believed in him the most?
 
 …
 
@@ -88,6 +88,21 @@ A hum. “Such cold reception for one that misses me so.”
 
 Silence. The ghost continued to play with his hair. Rune tried to ignore what feeling swelled in his chest from the act.
 
-“You should cut this sometime. Is it not getting tiresome having such long hair in the midst of battle?”
+“You should cut this sometime. Is it not getting tiresome having such long hair in the midst of battle?” his ghost mused.
 
 “The enemy does the cutting for me,” Rune responded, continuing to keep his eyes closed even though he knew full well that sleep was no longer coming back to him. “I could care less. Besides, it's never impeded me that much.”
+
+“How strange.”
+
+The silence that followed irked him, and he immediately sat up and stared at Zenos right in his eyes.
+
+“What are we doing?” Rune demanded, and the former crown prince merely gave him one of his knowing smiles.
+
+“What do you think, my dear friend?” Zenos asked just as immediately. “You're conversing with someone long dead. Don't let your comrades catch you in the act.” Rune rolled his eyes and fell back onto the covers of the bed.
+
+“Not the first time I've had to talk with the dead,” he mumbled, defeated. Zenos hummed at the response.
+
+“Do you suppose I’ll be the last?”
+
+“I hope so.” Rune turned to his side, facing away from Zenos. “There’s already too many of them to count.”
+

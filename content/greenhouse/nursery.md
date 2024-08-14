@@ -22,6 +22,14 @@ tags:
 
 ### other
 - [[kernel level]]
+
+## self-study and musings
+### connections between the self and technology
 - [[the dark forest and the cozy web]]
+	- [[thoughts on the cozy web]]
+- [[notes on tools for transformative thought]]
+- [[stock and flow isn't really my thing]]
+- [[digital gardens and productivity]]
+
 ## nursing
 - [[implicit bias]]

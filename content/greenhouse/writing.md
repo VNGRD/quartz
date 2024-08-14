@@ -9,14 +9,21 @@ tags:
 > *fun little things i wrote and will probably never finish* 🖋️
 
 ## characters
+### rune monna
+> *my boy, my beloved, my muse* 💗
+
 - [[rune monna]]
-	- [[lightwarden au]]
-	- [[raid - forgiven retribution]]
-	- [[runos things bc im brainrotting rn]]
-	- [[frosted bloodlust and what it means]]
-- [[yulia aumilie]]
-- [[cloudless moon in scarlet]]
-## snippets
+
+#### character and worldbuilding
+- [[lightwarden au logistics]]
+- [[raid - forgiven retribution]]
+- [[runos things bc im brainrotting rn]]
+- [[frosted bloodlust and what it means]]
+- [[in from the cold]]
+- [[runieric and losing themselves to their duty]]
+- [[rune and his age]]
+
+#### snippets and fics
 - [[andante agitato - to snuff out the light one last time.]]
 - [[let's make this glass coffin a glass home]]
 - [[scars we cover up with paint]]
@@ -24,3 +31,15 @@ tags:
 - [[a loving embrace in the snow]]
 - [[flames grow with immortal courage]]
 - [[kingslayer]]
+- [[bluer than a butterfly]]
+- [[calling card]]
+- [[open up the door]]
+- [[a breath of fresh air]]
+- [[with hearts aligned]]
+
+### yulia aumilie
+- [[yulia aumilie]]
+- [[approaching thunder]]
+
+## others
+- [[cloudless moon in scarlet]]

@@ -17,5 +17,4 @@ tags:
 - [[thoughtdump on whatever this is idk i forgot]]
 
 ### may
-- [[in from the cold]]
 - [[thoughts on the cozy web]]

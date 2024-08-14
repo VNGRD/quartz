@@ -17,15 +17,15 @@ source: https://maggieappleton.com/cozy-web
 	- Best seen in private online spaces shared with friends rather than strangers where there’s no need to “perform,” so to speak
 	- The antithesis to “premium mediocre”
 
-| **Domestic cozy**                      | **Premium mediocre**                        |
-| -------------------------------------- | ------------------------------------------- |
-| Private                                | Public                                      |
-| Lack of need to perform                | Pander to expectations of the spectator     |
-| Discord, Tumblr, Minecraft, Neocities  | Instagram, Tinder, Twitter, Facebook        |
-| Relaxed                                | Stressed                                    |
-| Appears different in its own way       | Looks the same everywhere                   |
-| “No clue what’s going on but whatever” | “I must know what’s happening at all times” |
-| Gen Z                                  | Millennial                                  |
+| **Domestic cozy**                      | **Premium mediocre**                         |
+| -------------------------------------- | -------------------------------------------- |
+| Private                                | Public                                       |
+| Lack of need to perform                | Pander to expectations of the spectator      |
+| Discord, Tumblr, Minecraft, Neocities  | Instagram, Tinder, Twitter, Facebook         |
+| Relaxed                                | Stressed                                     |
+| Appears different with each iteration  | Looks the same everywhere – think “Material” | 
+| “No clue what’s going on but whatever” | “I must know what’s happening at all times”  |
+| Gen Z                                  | Millennial                                   |
 
 # Related
 [The Dark Forest and the Cozy Web](https://maggieappleton.com/cozy-web)

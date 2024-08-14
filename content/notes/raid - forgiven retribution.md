@@ -58,4 +58,4 @@ tags:
 - Akh Morn stack → creates a really fucked up image of Midgardsormr via light aether to mimic the attack
 # Related
 - [[rune monna]]
-- [[lightwarden au]]
+- [[lightwarden au logistics]]
