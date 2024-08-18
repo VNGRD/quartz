@@ -29,12 +29,12 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.Graph()),
+    //Component.DesktopOnly(Component.Graph()),
   ],
   right: [ 
     //Component.DesktopOnly(Component.Explorer()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(), 
+    //Component.Backlinks(), if the backlinks list is long enough, there is no way to scroll to see the rest
   ],
 }
 
