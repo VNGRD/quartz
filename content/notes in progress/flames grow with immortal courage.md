@@ -12,7 +12,7 @@ tags:
 > *Beneath the scars*
 > *You’ll never be tainted by fate*
 
-Or, Corvus shows the Convocation why the seat of Azem is symbolized as the sun.
+Or, Koronis shows the Convocation why the seat of Azem is symbolized as the sun.
 
 ---
 From the start, Azem was known to be an oddity even amongst oddities among the Ancients. For a people that chose to pursue knowledge to bring peace and prosperity to society, he chose to pursue martial arts and ceaseless wandering instead. Where the Convocation would choose to step back and watch with detached interest, Azem would throw himself into the problem, heedless of their statements regarding the matter and breaking several unspoken rules in the process.
@@ -25,7 +25,6 @@ To some, he was a headache. To others, a whimsical rarity. To his best friends, 
 
 “‘Flagrant ignorance of several rules set in place,’ check. ‘Endangering several civilians while attempting to stop an altercation,’ check. ‘Employing creation magicks without following prescribed ruleset and protocol,’ check.“ Emet let out another pained sigh at the last point and looked up accusingly at Azem with his brow even more intensely furrowed than before.
 
-“Never mind what I said earlier – you absolutely *can* be stripped of your title with your antics, *Corvus,*” he said with a certain degree of poison while uttering Azem’s true name. “Are you stupid, or are you actually trying to get yourself fired?”
+“Never mind what I said earlier – you absolutely *can* be stripped of your title with your antics, *Koronis,*” he said with a certain degree of poison while uttering Azem’s true name. “Are you stupid, or are you actually trying to get yourself fired?”
 
 “It was my best option available to me at the time,” Azem argued, nonplussed by the surprising amount of emotion in Emet’s voice. “And I can argue about the endangerment of civilians when I specifically told them to clear out of the area before doing anything. Several witnesses can attest to that!”
-
