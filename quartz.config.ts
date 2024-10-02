@@ -64,7 +64,7 @@ const config: QuartzConfig = {
           darkgray: "#bac2de",
           dark: "#cdd6f4",
           secondary: "#d43046", // title, folder names, body links, callouts
-          tertiary: "#d43046", // text selection, link hover
+          tertiary: "#896b67", // text selection, link hover
           highlight: "rgba(245, 224, 220, 0.15)", // link and tag highlight
         },
       },
