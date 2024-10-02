@@ -46,6 +46,7 @@ button#explorer {
   max-height: none;
   transition: max-height 0.35s ease;
   margin-top: 0.5rem;
+  scrollbar-width: thin;
 
   &.collapsed > .overflow::after {
     opacity: 0;

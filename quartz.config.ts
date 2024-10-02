@@ -13,11 +13,16 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
-      typography: {
+      /*typography: {
         header: "Palatino", 
         body: "Palatino", // overwritten by custom.scss
         code: "Courier",
-      },
+      },*/
+      typography: {
+        header: "monospace",
+        body: "monospace",
+        code: "monospace",
+      }
       //HSR color scheme
       /*colors: {
         lightMode: {
@@ -49,7 +54,7 @@ const config: QuartzConfig = {
           darkgray: "#5c5f77",
           dark: "#4c4f69",
           secondary: "#a0564d", // title, folder names, body links, callouts
-          tertiary: "#000", // text selection, link hover
+          tertiary: "#dbaea8", // text selection, link hover
           highlight: "rgba(166, 227, 161, 0.15)", // link and tag highlight
         },
         darkMode: {
