@@ -10,30 +10,27 @@ tags:
 > *A Viera born of the Veena tribes based in the Skatay Range of Southern Othard, and known widely around Eorzea as the Warrior of Light.*
 
 # profile
+![](attachments/ffxiv/rune.png)
+
 **NAME:** Rune “Roo” Monna (forest name: Rúni Monnawesfv)
-
 **AGE:** 23 years old (as of the beginning of ARR)
-
 **GENDER:** Male → he/him
-
 **NAMEDAY:** 22nd Sun of the 1st Umbral Moon
-
 **GUARDIAN:** Oschon, the Wanderer
-
 **STARTING CITY-STATE:** Gridania
-
 **GRAND COMPANY:** Maelstrom → Second Storm Lieutenant
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y3PPbUA9utD7rl6IvEPna?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## key points
-- **CHARACTER INSPIRATIONS:** Raiden Ei, Xie Lian
-- **KEYWORDS:** survivor, persistent, gentle, deadly, tranquil
+- ==CHARACTER INSPIRATIONS:== Raiden Ei, Xie Lian
+- ==KEYWORDS:== survivor, persistent, gentle, deadly, tranquil
 - A friend to nature, a foe to those that dare being innocents, friends, and family to harm... and he strikes back at them with what one can call a surgical bloodthirst; a kind of storm beneath calm waters condensed into the deadly point of his spear.
 	- Melee combat is his specialty, and he is very, *very* good at it. He gives credit to his abilities to his former Wood Warder master, who had a strong emphasis in combat during his training.
 	- In the battlefield, people would describe him as a controlled chaos. His strikes are deliberate and precise, but he does so in blindingly fast fashion that this enemies are left to wonder what the hell just happened before they are cut to pieces.
 
 # personality
+![](attachments/ffxiv/rune1.png)
 - **A TRANQUIL SPIRIT →** Outside of battle and in places he deems safe, he lets down his guard and generally is calm, tranquil, and gentle. He loves to take naps under the shade of trees, as it reminds him of the forest he once called home. His demeanor makes it so that he is easily approachable by animals. It's not unusual to find him napping beneath a tree with a bird trying to nest in his long hair.
 	- Social cues are definitely a challenge for him  - a combo of him being raised in a remote village in Othard, being a foreigner in Eorzea (for only a time, since eventually he calls it home), and being some flavor of neurodivergent. 
 - **INTROVERTED HERO →** He does tend to keep to himself and honestly prefers it that way, which makes him feel very ill-suited for the more political side of things that the scions get involved with. He's just glad that the others are there to do the talking, as he would rather be pointed as a weapon toward the enemy instead.
@@ -41,10 +38,39 @@ tags:
 - **FROSTED BLOODLUST →** During battle, it would be a wonder to get any words out of him if you were his enemy. His attitude becomes one of frostbite - silent and poised to kill.
 	- Underneath the calm, he has a thirst for battle and bloodshed that can be rather frightening to others, even his comrades. His guilty pleasure is the thrill of dancing with death - nothing makes him feel both more alive and more appreciative of the world around him, and it makes him more protective of life as a whole. At one point (during Stomblood), this becomes dangerously close to a kind of self-harm, to the point that Aymeric had to stage an intervention at the behest of the Scions. At the same time, this bloodthirst is what draws Zenos towards him, and as a result he further enables that side of him.
 	- Interestingly, he does not mind being dehumanized and being used as a weapon and a weapon only, partly due to the way he was raised (and taking it absolutely the wrong way) and his love for fighting.
+- **THE MIND OF A PROTECTOR →** Some would say that his behavior with which he readily throws himself into harm’s way for the sake of others is befitting as his role as the Warrior of Light, but when one decides to look into it a little further, the behavior quickly becomes concerning. This is both due to his yearning for battle and his belief that you must go the distance in order to protect those you love; however, he truly takes this to a drastic length to the point of near-martyrdom. His tendency to put everything and everyone before himself manifests into such behavior as a result.
+	- From a conversation regarding Rune’s habits and tendencies: 
+		- T: *maybe just like the pattern is like jumping into things without regard if he comes out alive. like everyone knows the stakes of it all but Rune knows it and just jumps anyways while everyone hesitates.*
+		- A: *yea i think that would be a good way to go about it! like with the primals everyone is initially thinking like “oh he’s so brave for that” but when the enemies scale even further in terms of power she’s like “now wait a minute. hold on there bud. did you even plan to come out of that one alive”*
 
 # relationships
 ## the scions of the seventh dawn
-## estinien varlineau
+### Axilia Molkot
+> *”*
+
+### Alisaie Leveilleur
+Full aware is Rune regarding Alisaie’s regard towards him as a figure to look up to, but he is unable to comprehend as to why. As contradictory as it sounds, he cannot help but try and dissuade others from also going down the same path as he does – that is, as a warrior fighting for the star to the point where he will willingly and readily die for its sake.
+
+### Alphinaud Leveilleur
+
+### Thancred Waters
+
+### Urianger Augurelt
+
+### Y’shtola Rhul
+
+### G’raha Tia
+
+### Minfilia Warde
+
+### Krile Baldesion
+
+### Tataru Taru
+
+### YDA / Lyse Hext
+
+### estinien varlineau
+
 ## aymeric de borel
 ## zenos yae galvus
 > *These violent delights have violent ends. (or, toxic yaoi realness)* 
@@ -87,7 +113,6 @@ Probably during the worst timeline of the Lightwarden AU is only when the two fi
 
 ## biological family
 Rune's biological family consisted of Joryck (father – presumed deceased), Katja (mother – alive), and Thurin (older brother – deceased). Rune himself is thought to be deceased by his village after Thurin's body was found by a fellow Warder with Rune nowhere to be found.
-
 ### thurin
 Rune's Wood-Warder master and his senior of 5 years. If Rune is the spitting image of their mother, Thurin was the spitting image of their father.
 
@@ -97,7 +122,6 @@ His body was found by another Warder not long after the Garlean attack to their 
 Once known throughout the village for his combat prowess and many, many years of Warder experience under his belt, Joryck was Thurin and Rúni's father and was also well-known for his kind eyes.
 
 Joryck was presumed deceased after failing to return to the village after a decade of no contact, where male Viera were expected to return every three to five years. No evidence of his death, however, has been found. In truth, Joryck is indeed dead, and was killed by the hands of an aether-starved voidsent — and one that also happens to serve as Rune's Avatar now.
-
 ### katja
 The mother to Thurin and Rúni, and 
 
@@ -121,11 +145,13 @@ On his 18th (presumed) year of life and a year into his newfound adventuring lif
 | 1561 | 7   | The Eorzean Alliance is formally inaugurated. <br> Twins Alphinaud and Alisaie are born to House Leveilleur.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 1562 | 8   | Archon Louisoix gathers twelve of his disciples and forms the Circle of Knowing, a secret society with a self-proclaimed goal of saving Eorzea from disaster foretold. <br> Archons from the Circle of Knowing arrive in Eorzea. They split up and travel to each of the realm’s city-states. <br> <br> **1.0 begins here.** <br> A goobbue breaks free of its arcane fetters during a parade and proceeds to run amok the streets. Ascilia, one of the spectators, is orphaned at the age of twelve when her father is killed by the rampaging beast. |
 | 1566 | 12  | Rúni approaches the village matriarch and tells her about him not being comfortable with his own body. The matriarch agrees to help him with a treatment of fantasia and allows him to switch over from village duties to Wood-Warder training.                                                                                                                                                                                                                                                                                                        |
-| 1567 | 13  | Rúni completes his fantasia treatment and begins training as a Wood-Warder under the Wood-Warder master (and unbeknownst to him, his older brother) Thurin.                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 1569 | 15  | Thurin is killed by a stray contingent of Garleans after attempting to fend them off. Rúni is kidnapped by the remaining Garleans and shipped off to Doma for experimentation, but he manages to escape only after a few short months.                                                                                                                                                                                                                                                                                                                 |
-| 1570 | 16  | Rúni changes his name to “Rune Monna” and moves to Eorzea via ship in an attempt to escape Garlean presence in Othard. He then joins the Lancers’ Guild in Gridania and begins a small life for himself as an adventurer.                                                                                                                                                                                                                                                                                                                              |
+| 1567 | 13  | Rúni completes his fantasia treatment and begins training as a Wood-Warder under the Wood-Warder master (and unbeknownst to him, his older brother) Thurin.                                                                                                                                                                                                                                                                                                                                                                                            |
+| 1569 | 15  | Thurin is killed by a stray contingent of Garleans after attempting to fend them off. Rúni is kidnapped by the remaining Garleans and shipped off to Doma for experimentation, where he has a fateful meeting with a certain prince. He manages to escape only after a few short months.                                                                                                                                                                                                                                                               |
+| 1570 | 16  | Rúni changes his name to “Rune Monna” and moves to Eorzea via ship in an attempt to escape Garlean presence in Othard. He then joins the Lancers’ Guild in Gridania and begins a small life for himself as an adventurer, granted graciously by Mother Miounne despite his younger age.                                                                                                                                                                                                                                                               | 
 | 1572 | 18  | The Seventh Umbral Calamity occurs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 1577 | 23  | **2.0 begins.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 1577 | 23  | **2.0 begins.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+
 ## pre-ARR
 Rune is born to a village located in the Skatay Range in southern Othard. For the most part, he lived a rather idyllic childhood but was often found at the edge of the village, watching the tree line as if he was waiting for something. During this time, he was taught how to read, write, and the basics of combat and survival by the women of the village. At one point, he tries to sneak outside but ends up being caught by a Wood Warder and was subsequently punished for it after he was brought back to the village - this was when he learned of the dangers of the outside world and the existence of the Wood Warders.
 
@@ -172,7 +198,7 @@ The anguish he experienced during this time period made it very hard for him to 
 	- “Alice loves Rune. She just constantly asks about him and Rune is like *I am not allowed around this child per tataru’s request (she caught him giving Alice a knife)*”
 	- “Aliceen is super rambunctious! She grew up kinda spoiled (her years on the first and Axi and Graha gave her everything and anything) so she seems a little entitled but genuinely she just has so much love and energy to give out and she rarely sees Rune laugh or genuinely smile so she makes it her “life goal” to be the reason most days”
 	- “Akisah (second born) is more quiet and reserved! She really keeps to herself and when she does have the small adventurous spirit her sister absolutely encourages it (they once got stuck in a tree trying to build a treehouse on their own and it was Aki’s idea). It’s why Aki grows up to become an Archon like her father. She’s just really studious”
-- It’s also revealed that both Rune and Axi are both sundered reflections of Ancients that both held the seat of Azem. This explains how the three are able to communicate with each other despite Ardbert’s current “condition.”
+- It’s also revealed that both Rune and Axi are both of the same sundered Ascian from the events of the Final Days in Amaurot, along with Ardbert. This explains how the three are able to communicate with each other despite Ardbert’s current “condition.”
 - **[POST-5.0]** 
 	- "alright i'm so tired i'm just gonna fuck off and go fishing for a while" moment
 	- Immediately after the events of Shadowbringers did Rune feel shaken up about his connection with the Light, and decided to seek out teachers of the dark in order to keep a healthy balance of both. This is when he learns of Reapers and their pacts with voidsent, and forms a bargain with one such voidsent in order to keep himself in check. Similarly, he finds a teacher in a man named Fray and also begins his training as a Dark Knight in this way.

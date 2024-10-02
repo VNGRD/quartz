@@ -12,7 +12,8 @@ tags:
 > – a Norvrandt nursery rhyme
 
 # To-do
-- [ ] Why is Tesleen’s transformation as a sin eater more accelerated compared to the patients in the Amh Araeng clinic? (ex: Halric)
+- [ ] Why is Tesleen’s transformation as a sin eater more accelerated compared to the patients in the Amh Araeng clinic? (ex: Halric) → stabbed in the chest/heart = accelerated corruption of aether via cardiovascular system???
+	- [ ] What is the role of organ systems in relation to corporeal aether within the body?
 
 # What is “Forgiven Retribution?”
 A theme that follows Rune throughout his life would be “retribution.” In many ways than one, the Warrior of Light is also made by the people on top of the abilities that they would possess; the duties that the Warrior of Light performs is in service of the star, and therefore, its people. In Rune’s case, much of his duties lie in retribution *for* the people and delivering justice for the common man where the common man would be unable to do so otherwise. He in many ways is – or heavily makes up – the driving force of such deliveries of justice. 

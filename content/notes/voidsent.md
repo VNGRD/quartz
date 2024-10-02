@@ -14,7 +14,6 @@ tags:
 # Hierarchy
 - Strong rule over the weak; dog eat dog kind of world (literally)
 	- Stronger voidsent are able to command weaker ones, not unlike Lightwardens and weaker sin eaters
-		- 
  
 # Related
 - [Voidsent](https://finalfantasy.fandom.com/wiki/Voidsent_(Final_Fantasy_XIV))

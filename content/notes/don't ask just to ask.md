@@ -12,7 +12,7 @@ As opposed to
 
 > “I have a [problem] and trying to [endgoal]. I have done [attempts] but [problem]. How can I achieve [endgoal]?”
 
-This seems a pretty simple way of putting it, but if the next thing you say is going to be a question, you might as well ask the question right away. It’s less likely to waste people’s time, and by asking just to ask, you’re asking people take responsibility for what you’re trying to do when in reality, <mark style="background: #ADCCFFA6;">it should be *you* that’s taking responsibility for your own learning</mark>. Show them that you’re actually putting in effort to address your problem at hand by stating the **root problem, attempts you made at solving the problem, and your reasoning for such attempts**.
+This seems a pretty simple way of putting it, but if the next thing you say is going to be a question, you might as well ask the question right away. It’s less likely to waste people’s time, and by asking just to ask, you’re asking people take responsibility for what you’re trying to do when in reality, ==it should be *you* that’s taking responsibility for your own learning==. Show them that you’re actually putting in effort to address your problem at hand by stating the **root problem, attempts you made at solving the problem, and your reasoning for such attempts**.
 
 > *“You’re asking people to take responsibility. You’re questioning people’s confidence in their abilities. You’re also unnecessarily walling other people out.”*
 > - Jari Komppa, *Sol_HSA: “Don’t ask to ask, just ask”*
