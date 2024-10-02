@@ -18,7 +18,8 @@ const config: QuartzConfig = {
         body: "Palatino", // overwritten by custom.scss
         code: "Courier",
       },
-      colors: {
+      //HSR color scheme
+      /*colors: {
         lightMode: {
           light: "#eff1f5", // bg 
           lightgray: "#9ca0b0",
@@ -37,6 +38,28 @@ const config: QuartzConfig = {
           dark: "#cdd6f4",
           secondary: "#4d93a1", // title, folder names, body links, callouts
           tertiary: "#b63b1d", // text selection, link hover
+          highlight: "rgba(245, 224, 220, 0.15)", // link and tag highlight
+        },*/
+      //black and red
+      colors: {
+        lightMode: {
+          light: "#eff1f5", // bg 
+          lightgray: "#9ca0b0",
+          gray: "#9ca0b0",
+          darkgray: "#5c5f77",
+          dark: "#4c4f69",
+          secondary: "#a0564d", // title, folder names, body links, callouts
+          tertiary: "#000", // text selection, link hover
+          highlight: "rgba(166, 227, 161, 0.15)", // link and tag highlight
+        },
+        darkMode: {
+          light: "#000", // bg
+          lightgray: "#313244",
+          gray: "#9399b2",
+          darkgray: "#bac2de",
+          dark: "#cdd6f4",
+          secondary: "#d43046", // title, folder names, body links, callouts
+          tertiary: "#d43046", // text selection, link hover
           highlight: "rgba(245, 224, 220, 0.15)", // link and tag highlight
         },
       },

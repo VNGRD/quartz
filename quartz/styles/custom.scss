@@ -2,7 +2,7 @@
 
 // put your custom CSS here!
 
-body {
+/*body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -14,4 +14,19 @@ h5,
 h6,
 thead {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}*/
+
+body {
+    font-family: monospace;
+    cursor: crosshair;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead {
+    font-family: monospace;
 }
