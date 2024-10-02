@@ -22,7 +22,7 @@ const config: QuartzConfig = {
         header: "monospace",
         body: "monospace",
         code: "monospace",
-      }
+      },
       //HSR color scheme
       /*colors: {
         lightMode: {
